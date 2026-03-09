@@ -7,13 +7,13 @@
 
 ---
 
-## Progress: 16/730 — Day 8/365
+## Progress: 17/730 — Day 9/365
 
 ```
 [░░░░░░░░░░░░░░░░░░░░] 2%
 ```
 
-**Latest:** 🏗️ `Groth16 On-Chain Verifier` — March 08, 2026
+**Latest:** 🏗️ `Nullifier Management System` — March 09, 2026
 **Current Phase:** Phase 4: The ZK Privacy Layer
 
 ---
