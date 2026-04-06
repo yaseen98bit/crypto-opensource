@@ -7,13 +7,13 @@
 
 ---
 
-## Progress: 71/730 — Day 36/365
+## Progress: 72/730 — Day 36/365
 
 ```
 [█░░░░░░░░░░░░░░░░░░░] 9%
 ```
 
-**Latest:** 🏛️ `On-chain bounty board` — April 05, 2026
+**Latest:** 🏛️ `Quadratic voting contract` — April 05, 2026
 **Current Phase:** Phase 8: The Expanding Core
 
 ---
