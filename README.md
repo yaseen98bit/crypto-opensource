@@ -7,13 +7,13 @@
 
 ---
 
-## Progress: 105/730 — Day 53/365
+## Progress: 106/730 — Day 53/365
 
 ```
 [██░░░░░░░░░░░░░░░░░░] 14%
 ```
 
-**Latest:** 🏛️ `Multi-sig wallet` — April 22, 2026
+**Latest:** 🏛️ `On-chain bounty board` — April 22, 2026
 **Current Phase:** Phase 8: The Expanding Core
 
 ---
