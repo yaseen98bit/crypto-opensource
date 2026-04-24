@@ -7,13 +7,13 @@
 
 ---
 
-## Progress: 107/730 — Day 54/365
+## Progress: 108/730 — Day 54/365
 
 ```
 [██░░░░░░░░░░░░░░░░░░] 14%
 ```
 
-**Latest:** 🏛️ `Quadratic voting contract` — April 23, 2026
+**Latest:** 🏛️ `Treasury diversification contract` — April 23, 2026
 **Current Phase:** Phase 8: The Expanding Core
 
 ---
