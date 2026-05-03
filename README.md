@@ -7,13 +7,13 @@
 
 ---
 
-## Progress: 125/730 — Day 63/365
+## Progress: 126/730 — Day 63/365
 
 ```
 [███░░░░░░░░░░░░░░░░░] 17%
 ```
 
-**Latest:** 💰 `Perpetuals funding rate arbitrage between dYdX GMX` — May 02, 2026
+**Latest:** 💰 `Liquidity bootstrapping pool` — May 02, 2026
 **Current Phase:** Phase 8: The Expanding Core
 
 ---
